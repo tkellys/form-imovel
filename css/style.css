@@ -1,0 +1,6 @@
+div{
+    position: static;
+    display: contents;
+    width: 200px;
+    height: 400px;
+}
