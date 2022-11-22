@@ -1,0 +1,30 @@
+label{
+    display: block;
+}
+
+section label{
+    display: inline;
+}
+
+form{
+   border: solid 1px;
+   border-radius: 10px;
+   padding: 15px;
+   background-color: azure;
+
+}
+fieldset{
+    border-radius: 10px;
+}
+
+#buttom-limpar{
+    color: white;
+    background-color: black;
+}
+
+.buttom-enviar{
+    color: white;
+    background-color: #1a73e8;
+    margin-top: 10px;
+    size: 15px;
+}

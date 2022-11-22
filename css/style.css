@@ -1,6 +1,16 @@
-div{
-    position: static;
-    display: contents;
-    width: 200px;
-    height: 400px;
+header{
+    width: auto;
+    background-color: white ;
+    text-align: center;
+}
+
+.area{
+    width: auto;
+    background-color: azure;
+    text-align: center;
+    
+}
+
+form{
+
 }
